@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: (pink,lavender,skyblue);
+}
+.contact_1 h5{
+    display: inline;
+}
+.contact_1 a{
+    text-shadow: none;
+}
+#contact iframe
+{
+    width: 50%;
+}
